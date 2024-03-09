@@ -1,0 +1,13 @@
+{
+    "name": "phplot/phplot",
+    "type": "library",
+    "require-dev": {
+        "phplot/phplot": "v8.0.0.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Phplot\\Phplot\\": "src/"
+        }
+    },
+    "require": {}
+}

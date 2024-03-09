@@ -1,0 +1,11 @@
+{
+    "name": "root/ejemplo-ph-pmailer",
+    "autoload": {
+        "psr-4": {
+            "Root\\EjemploPhPmailer\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
